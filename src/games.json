@@ -1,0 +1,34 @@
+[
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "peak",
+    "category": "Arcade",
+    "iframeUrl": "https://kdata1.com/2020/05/slope/",
+    "thumbnail": "https://wallpapercave.com/wp/wp11761980.jpg"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "tetris 2.0.",
+    "category": "Arcade",
+    "iframeUrl": "https://hextris.io/",
+    "thumbnail": "https://m.media-amazon.com/images/I/51x5yEr3VCL.png"
+  },
+  {
+    "id": "minecraft-classic",
+    "title": "Minecraft Classic",
+    "description": "shitty minecraft",
+    "category": "Sandbox",
+    "iframeUrl": "https://classic.minecraft.net/",
+    "thumbnail": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/57/Classic.png/revision/latest?cb=20240729065442"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "description": "why did the creator get aids?",
+    "category": "Arcade",
+    "iframeUrl": "https://flappybird.io/",
+    "thumbnail": "https://c4.wallpaperflare.com/wallpaper/838/630/344/flappy-bird-game-popular-news-wallpaper-preview.jpg"
+  }
+]
